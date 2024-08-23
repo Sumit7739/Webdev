@@ -161,4 +161,6 @@ The command line interface (CLI) is a powerful way to interact with a Linux syst
 
 These commands form the foundation of interacting with a Linux system through the command line. Mastery of these basics will enable you to perform essential tasks efficiently and pave the way for learning more advanced command-line skills.
 
-Go back to topics page [[Linux Basics]].
+next -> [[User and Group]].
+
+back -> Linux [[File System]].
