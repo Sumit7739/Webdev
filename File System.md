@@ -40,4 +40,6 @@ The Linux file system is a structured and organized way of storing and managing 
 - **Write (`w`)**: Permission to modify a file or directory.
 - **Execute (`x`)**: Permission to execute a file or traverse a directory.data like logs, databases, and email.
 
-Go back to Topics page [[Linux Basics]].
+next -> [[Basic Command Line Usage]].
+
+back -> [[History]].

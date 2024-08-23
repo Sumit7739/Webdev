@@ -10,4 +10,6 @@
     
 5. **Graphical User Interface (GUI)**: While Linux can be used entirely from the command line, many distributions offer graphical environments like GNOME, KDE, and XFCE for easier user interaction.
 
-See Linux [[Introduction]] here.
+next -> [[History]] of Linux.
+
+back -> [[Introduction]] of Linux.

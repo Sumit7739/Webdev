@@ -16,3 +16,4 @@ Linux is a powerful, open-source operating system (OS) based on the Unix operati
     
 6. **Support for a Wide Range of Hardware**: Linux supports a wide variety of hardware platforms, from small embedded devices to large mainframes.
 
+next -> [[Components]] of Linux.

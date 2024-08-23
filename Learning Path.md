@@ -2,7 +2,7 @@
 2.  Networks Basics
 3. Git and Version Control
 
-##  [Frontend](Summary)
+##  [Frontend](Summary.md)
 
 1.  HTML5 and CSS3
 2. JAVASCRIPT
@@ -30,4 +30,4 @@
 7. Montoring and Logging
 
 [[Summary]] of this page
-Go back to topics page [[Contents]].
+Go back to topics page [[Dev/Contents]].

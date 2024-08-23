@@ -4,6 +4,7 @@ The command line interface (CLI) is a powerful way to interact with a Linux syst
 **1. Navigating the File System:**
 
 - **`ls`**: Lists files and directories.
+
   ```bash
   ls           # List all files and directories in the current directory
   ls -l        # Long listing format with detailed information
