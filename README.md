@@ -24,8 +24,9 @@ By the end of the project, you’ll have built a fully functional photo storage 
 ## 📚 Contents
 Below are the main topics covered in this resource. Dive in and start learning:
 
-1. [Linux Basics](Linux_Basics/Contents.md)
-2. [HTML & CSS Essentials](HTML_CSS/Essentials.md)
-3. [JavaScript for Beginners](JavaScript/Beginners.md)
+1. [Introduction](Linux_Basics/Learning_Path.md)]
+2. [Linux Basics](Linux_Basics/LinuxBasics.md)
+3. [HTML & CSS Essentials](HTML_CSS/Essentials.md)
+4. [JavaScript for Beginners](JavaScript/Beginners.md)
 
 > Stay curious, keep coding, and make amazing things happen! 💻
