@@ -1,5 +1,8 @@
 
-**This Page Contains all the topics covered in [[Linux Basics]]**
+
+**This Page Contains all the topics covered in Linux Basics**
+
+
 ## Topics
 
 1. [Introduction](Introduction.md) to Linux
@@ -7,6 +10,9 @@
 3. [History](History.md) of Linux.
 4. [Linux File System](FileSystem.md).
 5. [Basic Command Line Usage](BasicCommandLineUsage.md).
+
+---
+
 ## Intermediate
 
 1. [User and Group Management](UserandGroup.md).
@@ -15,6 +21,8 @@
 4. [Process Management](ProcessManagement.md).
 5. [Package Management](PackageManagement.md).
 6. [Networking Basics](NetworkingBasics.md).
+
+---
 
 ## Advanced
 
