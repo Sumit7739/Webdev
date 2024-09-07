@@ -196,4 +196,7 @@ These commands form the foundation of interacting with a Linux system through th
 
 
 
-NEXT -> [User and Group](UserandGroup.md).                                                      BACK -> [File System](FileSystem.md).
+NEXT -> [User and Group](UserandGroup.md).
+
+
+BACK -> [File System](FileSystem.md).
