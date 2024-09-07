@@ -21,6 +21,20 @@ By the end of the project, you’ll have built a fully functional photo storage 
 
 ---
 
+## 🚀 Project 2: Building a Full-Fledged Social Media App
+
+In addition to the photo gallery project, we will also work on building a **full-fledged social media app** with multiple interactive features. This project will cover advanced web development concepts, including:
+
+- 🧑‍🤝‍🧑 **User registration and profiles** with customizable settings.
+- 📝 **Post creation and interaction**, including likes, comments, and shares.
+- 🔔 **Real-time notifications** and updates.
+- 🗂️ **Media uploads** with support for images and videos.
+- 🌍 **Following and messaging system** to connect users and foster communication.
+
+This project will help you understand how to manage complex web applications, including database design, real-time data handling, and front-end interactivity. By the end, you’ll have a feature-rich social media platform ready to showcase.
+
+---
+
 ## 📚 Contents
 Below are the main topics covered in this resource. Dive in and start learning:
 
