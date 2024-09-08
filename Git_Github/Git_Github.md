@@ -94,4 +94,5 @@ git config --global user.email "your email here"
 
 These are the information attached to commits.
 
-NEXT -> [Working with Git](GitCMD.md).
+Next -- [Git Introduction](Git.md)
+
