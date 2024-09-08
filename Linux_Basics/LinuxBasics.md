@@ -1,6 +1,6 @@
 
 
-**This Page Contains all the topics covered in Linux Basics**
+## **This Page Contains all the topics covered in Linux Basics**
 
 
 ## Topics

@@ -1,10 +1,10 @@
-1.  [Linux Basics](LinuxBasics.md)
+1.  [Linux Contents](Linux_Basics/LinuxBasics.md)
 2.  [Networks Basics](NetworkingBasics.md)
-3.  [Git and Version Control](Git_Github/Git_Github.md)
+3.  [Git and Version Control](Git_Github/GitContent.md)
 
 ---
 
-##  [Frontend](Summary.md)
+##  [Frontend](Linux_Basics/Summary.md)
 
 1.  [HTML5 and CSS3](HTML_CSS.md)
 2.  [JAVASCRIPT](JavaScript.md)
@@ -28,7 +28,7 @@
 
 ---
 
-## [Devops](Devops.md)
+## [Devops](Linux_Basics/Devops.md)
 
 1. CI/CD
 2. Infrastucture as code (IAC)
@@ -40,7 +40,7 @@
 
 ---
 
-[Summary](Summary.md) of this page
+[Summary](Linux_Basics/Summary.md) of this page
 
 
 Go back to topics page [click here](https://sumit7739.github.io/Webdev/).

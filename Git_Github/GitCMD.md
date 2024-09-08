@@ -1,6 +1,6 @@
-### **Working with git – Important Git commands**
+# **Working with git – Important Git commands**
 
-**Git user configuration (First Step)**
+### **Git user configuration (First Step)**
 
 ```bash
 git --version (to check git version)
@@ -160,4 +160,5 @@ git checkout -f
 Open Source might be considered as a way where user across the globe may share their opinions, customizations or work together to solve an issue or to complete the desired project together. Many companies host there repositories online on Github to allow access to developers to make changes to their product. Some companies(not necessarily all) rewards their contributors in different ways.
 
 ---
-	
+
+Next -> [?](?)

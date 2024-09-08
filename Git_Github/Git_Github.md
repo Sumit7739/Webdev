@@ -1,6 +1,6 @@
 
-**Highlights of the Topics:**  
-
+# **Highlights of the Topics:**  
+---
 1. **Introduction to Git**
 2. Git Repository Structure
 3. Github
@@ -95,4 +95,3 @@ git config --global user.email "your email here"
 These are the information attached to commits.
 
 Next -- [Git Introduction](Git.md)
-
