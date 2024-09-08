@@ -33,6 +33,21 @@ Keep an eye on this page for regular updates, assignments, and important announc
 
 ---
 
+## 📚 Contents
+Below are the main topics covered in this resource. Dive in and start learning:
+
+1. [Introduction](Linux_Basics/Learning_Path.md)
+
+2. [Linux Basics](Linux_Basics/LinuxBasics.md)
+
+3. [Git/Github and Version Control](Git_Github.md)
+
+4. [HTML & CSS Essentials](HTML_CSS/Essentials.md)
+
+5. [JavaScript for Beginners](JavaScript/Beginners.md)
+
+---
+
 ## 🚀 Project: Building a Google Photos Alternative
 
 
@@ -70,16 +85,5 @@ In addition to the photo gallery project, we will also work on building a **full
 This project will help you understand how to manage complex web applications, including database design, real-time data handling, and front-end interactivity. By the end, you’ll have a feature-rich social media platform ready to showcase.
 
 ---
-
-## 📚 Contents
-Below are the main topics covered in this resource. Dive in and start learning:
-
-1. [Introduction](Linux_Basics/Learning_Path.md)
-
-2. [Linux Basics](Linux_Basics/LinuxBasics.md)
-
-3. [HTML & CSS Essentials](HTML_CSS/Essentials.md)
-
-4. [JavaScript for Beginners](JavaScript/Beginners.md)
 
 > Stay curious, keep coding, and make amazing things happen! 💻
