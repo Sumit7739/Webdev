@@ -40,7 +40,7 @@ Below are the main topics covered in this resource. Dive in and start learning:
 
 2. [Linux Basics](Linux_Basics/LinuxBasics.md)
 
-3. [Git/Github and Version Control](Git_Github.md)
+3. [Git/Github and Version Control](Git_Github/Git_Github.md)
 
 4. [HTML & CSS Essentials](HTML_CSS/Essentials.md)
 
