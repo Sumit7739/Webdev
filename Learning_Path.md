@@ -1,30 +1,48 @@
-1.  [Linux Contents](Linux_Basics/LinuxBasics.md)
-2.  [Networks Basics](NetworkingBasics.md)
-3.  [Git and Version Control](Git_Github/GitContent.md)
+# Contents of the Syllabus
+---
+## [Essenstails](#) [^1][^2]
+[^1]: **Only the topics from Essentials to Database will be covered in the Course.**
+[^2]: Linux and Git topics will take 1 to 1.5 months to complete.
+
+1.  [Linux Concepts](Linux_Basics/LinuxBasics.md)
+2.  [Git and Version Control](Git_Github/GitContent.md)
 
 ---
 
-##  [Frontend](Linux_Basics/Summary.md)
+##  [Frontend](Frontend/Frontend.md)[^3]
+[^3]: Frontend topics will take 2 to 2.5 months to complete.
 
 1.  [HTML5 and CSS3](HTML_CSS.md)
 2.  [JAVASCRIPT](JavaScript.md)
-3.  REACT.js
-4.  State Management with Redux.
-
 ---
 
-## Backend Development
+## [Backend Development](#)[^4]
+[^4]: Backend topics will take 1 to 1.5 months to complete.
 
 1. [PHP](PHP.md)
-2. Node.js
-3. Express.js
-
+2. [JQuery](#)
 ---
 
-## Database
+## [Database]()[^5]
+[^5]: Database topics will take around 1 month to complete.
 
 1.  [SQL (MySQL / PostgreSQL)](SQL.md)
-2.  NoSQL (MongoDB)
+2.  [XAMPP Environment](#)
+
+---
+> Total Time to Complete the Course will be around **6 months,**
+>With **2** **Projects**. **See the Project on the home page**.
+---
+# [Advance Topics](#)[^6]
+[^6]: **Advance topics and Devops are not covered in the course.**
+
+1.  REACT.js
+2.  State Management with Redux.
+3.  Tailwind.css
+4. Node.js
+5. NPM
+6. Express.js
+7. MongoDB
 
 ---
 

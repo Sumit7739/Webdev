@@ -42,7 +42,7 @@ Below are the main topics covered in this resource. Dive in and start learning:
 
 3. [Git/Github and Version Control](Git_Github/GitContent.md)
 
-4. [HTML & CSS Essentials](HTML_CSS/Essentials.md)
+4. [HTML & CSS Essentials](Frontend/Contents.md)
 
 5. [JavaScript for Beginners](JavaScript/Beginners.md)
 
