@@ -42,6 +42,7 @@ While Linux's server dominance was firmly established, it also made significant 
 
 Today, Linux powers everything from supercomputers and stock exchanges to smartphones and smart refrigerators. Its impact on the technology landscape is undeniable. The story of Linux is a testament to the power of open collaboration, the ingenuity of countless developers, and the enduring appeal of a free and open operating system.
 
+---
 
 
 NEXT -> [Linux File System](FileSystem.md).

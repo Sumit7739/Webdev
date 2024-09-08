@@ -70,6 +70,7 @@ The Linux file system is a structured and organized way of storing and managing 
 
 - **Execute (`x`)**: Permission to execute a file or traverse a directory.data like logs, databases, and email.
 
+---
 
 NEXT -> [Basic Command Line Usage](BasicCommandLineUsage.md).
 

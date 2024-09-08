@@ -5,4 +5,4 @@
 5. Advanced Topics -> Kubernetes, Cloud Services.
 
 
-Go back to topics page [[Learning Path]].
+Go back to topics page [Learning Path](Learning_Path.md).

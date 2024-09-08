@@ -39,4 +39,5 @@ Linux, at its core, is a powerful and versatile operating system (OS). Think of 
 
 NEXT -> [Components of Linux](Components.md).
 
+
 BACK -> [History of Linux](History.md).
