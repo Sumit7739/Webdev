@@ -1,6 +1,6 @@
 1.  [Linux Basics](LinuxBasics.md)
 2.  [Networks Basics](NetworkingBasics.md)
-3.  [Git and Version Control](Webdev/Git_Github/Git_Github.md.md)
+3.  [Git and Version Control](Webdev/Git_Github/Git_Github.md)
 
 ---
 

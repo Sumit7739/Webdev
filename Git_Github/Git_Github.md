@@ -35,9 +35,9 @@ All the repository structure is internal to Git and is transparent to the develo
 **Some commands which relate to repository structure:**  
 
  ```bash
- 
- git add . # transfers your project from working directory to staging area.
- 
+
+git add . # transfers your project from working directory to staging area.
+
 git commit -m "your message here" ->
 # transfers your project from staging area to Local Repository.
 
