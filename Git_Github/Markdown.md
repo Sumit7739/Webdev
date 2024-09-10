@@ -111,7 +111,7 @@ Images are similar to links but with an exclamation mark `!` at the beginning. T
 
 #### Syntax:
 ```
-![OpenAI Logo](markdown.jpg "Markdown Logo")
+![Markdown Logo](markdown.jpg "Markdown Logo")
 ```
 
 #### Rendered Output:
@@ -143,16 +143,15 @@ Code blocks are surrounded by triple backticks or indented with four spaces. Spe
 
 #### Syntax:
 
-<pre>
-```python
+
+```bash
 def hello_world():
     print("Hello, World!")
 ```
-</pre>
 
 #### Rendered Output:
 
-```python
+```bash
 def hello_world():
     print("Hello, World!")
 ```

@@ -1,11 +1,11 @@
 # Contents of the Syllabus
 
-## [Essenstails](#) [^1][^2]
-[^1]: **Only the topics from Essentials to Database will be covered in the Course.**
-[^2]: Linux and Git topics will take 1 to 1.5 months to complete.
+## [Essenstails](#) [^1]
+[^1]: **Only the topics from Essentials to Database will be covered in the Course.** Linux and Git topics will take 1 to 1.5 months to complete.
 
 1.  [Linux Concepts](Linux_Basics/LinuxBasics.md)
 2.  [Git and Version Control](Git_Github/GitContent.md)
+3.  [Markdown Concepts](Git_Github/Markdown.md)
 
 ---
 
