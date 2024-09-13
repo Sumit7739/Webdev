@@ -4,7 +4,7 @@ This section covers the core technologies and concepts of frontend development, 
 
 ## 1. HTML(HyperText Markup Language)
 
-- [Introduction to HTML](HtmlIntro.md)
+- [Introduction to HTML](HTML_CSS/HtmlIntro.md)
 - [Basic HTML Structure](HTML_CSS/BasicStructure.md)
 - [HTML Elements and Attributes](HTML_CSS/ElementsAttributes.md)
 - [Text Formatting and Headings](HTML_CSS/TextFormatting.md)
