@@ -86,7 +86,7 @@ This project will help you understand how to manage complex web applications, in
 
 ## Intrested then Register Now from the link below:
 
-### [Register Here](sumit7739.github.io/page/)
+### [Register Here](https://sumit7739.github.io/page/)
 
 ---
 
