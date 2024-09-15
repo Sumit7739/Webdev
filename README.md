@@ -84,7 +84,9 @@ In addition to the photo gallery project, we will also work on building a **full
 
 This project will help you understand how to manage complex web applications, including database design, real-time data handling, and front-end interactivity. By the end, you’ll have a feature-rich social media platform ready to showcase.
 
-[Register Here](sumit7739.github.io/page/)
+## Intrested then Register Now from the link below:
+
+### [Register Here](sumit7739.github.io/page/)
 
 ---
 
