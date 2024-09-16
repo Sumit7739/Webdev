@@ -42,9 +42,40 @@ Below are the main topics covered in this resource. Dive in and start learning:
 
 3. [Git/Github and Version Control](Git_Github/GitContent.md)
 
-4. [HTML & CSS Essentials](Frontend/Contents.md)
+4. [Markdown Concepts](Git_Github/Markdown.md)
 
-5. [JavaScript for Beginners](JavaScript/Beginners.md)
+5. [HTML & CSS Essentials](Frontend/Contents.md)
+
+6. [JavaScript for Beginners](JavaScript/Beginners.md)
+
+7. [PHP](Backend/Contents.md)
+
+8. [JQuery](Backend/Contents.md)
+
+9. [SQL](Database/Contents.md)
+
+10. [XAMPP Environment](Database/Contents.md)
+
+
+---
+
+## 🚀 Project: ScholarWeb - A Centralized Student Portal
+
+One of the core projects in this Web Development curriculum is **ScholarWeb**, a web application that acts as a centralized portal for students enrolled in the course.
+
+This project will walk you through the entire process of building a web platform, allowing you to develop key web development skills, such as:
+
+- 📚 **Managing course materials** such as tasks, homework, schedules, and class notes in an organized and accessible way.
+
+- 🎥 **Integrating video lectures** for easy access to recorded lessons and tutorials.
+
+- 🖥️ **Creating a dynamic dashboard** where students can track their progress and access personalized content.
+
+- 🔐 **Implementing user authentication** to ensure secure access for enrolled students only.
+
+- 📝 **Handling form submissions** for homework and other assignments.
+
+By the end of the project, you'll have built a fully functional student management platform, gaining hands-on experience with solving real-world web development challenges. This project will give you practical exposure to front-end and back-end development, preparing you for future endeavors.
 
 ---
 
