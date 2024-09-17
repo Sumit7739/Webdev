@@ -27,3 +27,4 @@ This section covers the core technologies and concepts of frontend development, 
 ---
 
 Back to Syllabus Page [click here](https://sumit7739.github.io/Webdev/Learning_Path.html).
+
