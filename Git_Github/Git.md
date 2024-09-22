@@ -15,6 +15,10 @@ Created by Linus Torvalds in 2005 for the development of the Linux kernel, Git h
 - **Merging:** You can merge branches into the main branch to incorporate changes made in other branches.
 - **Cloning:** Creates a complete copy of a Git repository. It’s like copying the entire project from a central location to your own computer.
 
+![Git workflow](Gitworkflow.jpeg)
+
+---
+
 ## Reasons to Choose Git
 
 - **Distributed System:** Every developer has a complete local copy of the project, allowing for offline work and increased resilience.

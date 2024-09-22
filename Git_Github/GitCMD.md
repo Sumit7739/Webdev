@@ -161,4 +161,4 @@ Open Source might be considered as a way where user across the globe may share t
 
 ---
 
-Next -> [?](?)
+Next -> [Important Daily used Git Commands](moregitcmd.md)

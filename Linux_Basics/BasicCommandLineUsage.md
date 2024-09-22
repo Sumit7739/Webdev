@@ -198,5 +198,6 @@ These commands form the foundation of interacting with a Linux system through th
 
 NEXT -> [User and Group](UserandGroup.md).
 
-
 BACK -> [File System](FileSystem.md).
+
+[50+ commonly used commands](morecmd.md)
