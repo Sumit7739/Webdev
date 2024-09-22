@@ -1,6 +1,6 @@
-# 🌐 Web Development Notes
+# 🌐 Web Development Course
 
-Welcome to the **Web Development Notes** page—a comprehensive learning hub designed to accompany the web development lessons taught in class.
+Welcome to the **Web Development Course** page—a comprehensive learning hub designed to accompany the web development lessons taught in class.
 
 Here, you’ll find detailed explanations, real-world examples, and hands-on projects that will help you master essential web technologies like **HTML**, **CSS**, and **JavaScript**.
 
@@ -24,6 +24,20 @@ As part of this learning experience, you will receive **daily tasks** and **home
 
 - Research tasks to explore new tools and techniques.
 
+---
+
+#### All the Tasks assigned can be found here :
+
+##### **[Tasks](AssignedTasks/Tasks.md)**
+
+#### **Submit your homework here :**
+##### **[Homework](Homework/Homework.md)**
+
+#### **See this page to know how to submit your homework :**
+
+##### **[How to Submit Your Homework](Homework/HomeworkInfo.md)**
+
+---
 
 These daily tasks will help you stay on track and ensure you're gaining a solid understanding of the material.
 
