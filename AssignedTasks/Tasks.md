@@ -12,7 +12,7 @@ This page contains all the tasks assigned to the students in the Web Development
 ## Tasks
 
 1. [Task 1](Tasks/Task1.md)
-<!-- 2. [Task 2](Tasks/Task2.md) -->
+2. [Task 2](Tasks/Task2.md)
 <!-- 3. [Task 3](Tasks/Task3.md) -->
 <!-- 4. [Task 4](Tasks/Task4.md) -->
 <!-- 5. [Task 5](Tasks/Task5.md) -->
