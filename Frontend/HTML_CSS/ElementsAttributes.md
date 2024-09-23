@@ -279,4 +279,6 @@ Forms are used to collect user input. Key elements in forms include:
 ---
 
 
-[]
+[Text Formatting and Headings](TextFormatting.md)
+
+Back to Contents page [click here](../Contents.md)

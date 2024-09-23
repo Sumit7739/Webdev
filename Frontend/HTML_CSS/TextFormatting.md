@@ -354,3 +354,7 @@ Special characters that are reserved in HTML can be displayed using entity codes
 </html>
 ```
 ---
+
+Next -> [Images and Links](ImagesLinks.md)
+
+Back to Contents page [click here](../Contents.md)
