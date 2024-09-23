@@ -28,14 +28,14 @@ As part of this learning experience, you will receive **daily tasks** and **home
 
 #### All the Tasks assigned can be found here :
 
-##### **[Tasks](AssignedTasks/Tasks.md)**
+#### **[Tasks](AssignedTasks/Tasks.md)**
 
 #### **Submit your homework here :**
-##### **[Homework](Homework/Homework.md)**
+#### **[Homework](Homework/Homework.md)**
 
 #### **See this page to know how to submit your homework :**
 
-##### **[How to Submit Your Homework](Homework/HomeworkInfo.md)**
+#### **[How to Submit Your Homework](Homework/HomeworkInfo.md)**
 
 ---
 
