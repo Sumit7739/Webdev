@@ -17,14 +17,16 @@ This section covers the core technologies and concepts of frontend development, 
 ## 2. CSS(Cascading Style Sheets)
 
 - [Introduction to CSS](HTML_CSS/CSSIntro.md)
-- [Introduction to CSS](HTML_CSS/CSSIntro.md)
 - [CSS Selectors](HTML_CSS/CSSSelectors.md)
 - [CSS Properties](HTML_CSS/CSSProperties.md)
 - [CSS Layout: Flexbox and Grid](HTML_CSS/CSSLayout.md)
 - [Responsive Web Design](HTML_CSS/ResponsiveDesign.md)
 - [CSS Frameworks: Bootstrap and Tailwind CSS](HTML_CSS/CSSFrameworks.md)
+- [CSS Animations and Transitions](HTML_CSS/CSSAnimations.md)
+- [CSS Variables (Custom Properties)](HTML_CSS/CSSVariables.md)
+- [CSS Media Queries](HTML_CSS/CSSMediaQueries.md)
+- [Preprocessors: SASS/SCSS](HTML_CSS/Preprocessors.md)
 
 ---
 
 Back to Syllabus Page [click here](https://sumit7739.github.io/Webdev/Learning_Path.html).
-
