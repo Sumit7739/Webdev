@@ -73,7 +73,7 @@ Below are the main topics covered in this resource. Dive in and start learning:
 
 ---
 
-## 🚀 Project: ScholarWeb - A Centralized Student Portal
+## [🚀](AssignedTasks/Tasks/JavaRoadmap.md) Project: ScholarWeb - A Centralized Student Portal
 
 One of the core projects in this Web Development curriculum is **ScholarWeb**, a web application that acts as a centralized portal for students enrolled in the course.
 
@@ -136,5 +136,3 @@ This project will help you understand how to manage complex web applications, in
 ---
 
 > Stay curious, keep coding, and make amazing things happen! 💻
-
-[Java Roadmap](AssignedTasks/Tasks/JavaRoadmap.md)
