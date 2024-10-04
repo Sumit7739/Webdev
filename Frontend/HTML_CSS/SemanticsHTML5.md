@@ -229,4 +229,4 @@ By using **semantic HTML5**, developers create more meaningful, accessible, and 
 
 Next -> [HTML Validation](HTMLValidation.md)
 
-Back to Contents page [click here](Contents.md)
+Back to Contents page [click here](../Contents.md)
