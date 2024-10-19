@@ -13,7 +13,7 @@
 [^3]: Frontend topics will take 2 to 2.5 months to complete.
 
 1.  [HTML5 and CSS3](Frontend/HtmlIntro.md)
-2.  [Javascript](JavaScript.md)
+2.  [Javascript](JavaScript/Beginners.md)
 
 ---
 
